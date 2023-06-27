@@ -3,7 +3,7 @@
 
 PC移动端主站地址：http://visionhub.top （目前使用）\
 安卓App： <a href="https://github.com/k1287988804/visionhubdocs/releases/download/v1.0.0/VisionHub_1.0.0_release.apk" target="_blank" >VisionHub</a> \
-VisionTool：https://github.com/k1287988804/VisionTool \
+VisionTool：https://github.com/k1287988804/VisionTool
 
 @author：K启源 B站/爱发电同名
 
