@@ -1,5 +1,4 @@
 # Vision Hub 使用手册
-<img src="https://github.com/k1287988804/visionhubdocs/blob/main/visionhub.jpg" width="80" />
 
 PC移动端主站地址：http://visionhub.top （目前使用）\
 安卓App： <a href="https://github.com/k1287988804/visionhubdocs/releases/download/v1.0.0/VisionHub_1.0.0_release.apk" target="_blank" >VisionHub</a> \
