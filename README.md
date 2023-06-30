@@ -33,6 +33,8 @@ VisionTool：https://github.com/k1287988804/VisionTool
 如：\
 --medvram --autolaunch --xformers --theme dark --no-half-vae --api --cors-allow-origins '*' --listen --port 7860
 在绘图地址处填入地址：\
+<br/>
+<img src="https://github.com/k1287988804/visionhubdocs/blob/main/sd2.png" width="500" />
 
 
 
