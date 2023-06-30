@@ -27,6 +27,7 @@ VisionTool：https://github.com/k1287988804/VisionTool
 需要内网穿透-> \
 去 https://www.cpolar.com/ 下载穿透软件 按照要求配置好 \
 接着启动 ./cpolar http 7860  代理7860端口 \
+或者下载 <a href="https://github.com/k1287988804/visionhubdocs/blob/main/SD7860.zip" target="_black">SD7860</a> 解压到cpolar目录下运行 \
 <br/>
 <img src="https://github.com/k1287988804/visionhubdocs/blob/main/sd.png" width="500" /> 
 ###### sd的启动命令要加--api和--cors-allow-origins '*' 
