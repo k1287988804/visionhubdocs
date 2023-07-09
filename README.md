@@ -24,18 +24,10 @@ VisionTool：https://github.com/k1287988804/VisionTool
 支持自定义角色幻象（对话、头像、形象、声音）、支持导入导出幻象
 
 ##### 使用本地SD绘图的方法：
-需要内网穿透-> \
-去 https://www.cpolar.com/ 下载穿透软件 按照要求配置好 \
-接着启动 ./cpolar http 7860  代理7860端口 \
-或者下载 <a href="https://github.com/k1287988804/visionhubdocs/blob/main/SD7860.zip" target="_black">SD7860</a> 解压到cpolar目录下运行 \
-<br/>
-<img src="https://github.com/k1287988804/visionhubdocs/blob/main/sd.png" width="500" /> 
+地址填入：http://localhost:7860   支持秋叶启动器
 ###### sd的启动命令要加--api和--cors-allow-origins '*' 
 如：\
 --medvram --autolaunch --xformers --theme dark --no-half-vae --api --cors-allow-origins '*' --listen --port 7860
-在绘图地址处填入地址：\
-<br/>
-<img src="https://github.com/k1287988804/visionhubdocs/blob/main/sd2.png" width="500" />
 
 
 
