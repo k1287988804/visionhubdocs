@@ -1,6 +1,6 @@
 # Vision Hub 使用手册
 
-主页地址： https://applevisionhub.net
+主页地址： https://applevisionhub.net \
 PC移动端服务站点地址：https://visionhub.top （目前使用）\
 安卓App（部分功能存在异常，如无法换头像）： <a href="https://github.com/k1287988804/visionhubdocs/releases/download/v1.0.0/VisionHub_1.0.0_release.apk" target="_blank" >VisionHub</a> \
 VisionTool：https://github.com/k1287988804/VisionTool
