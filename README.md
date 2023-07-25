@@ -12,7 +12,7 @@ VisionTool：https://github.com/k1287988804/VisionTool
 ##### 全局设置面板 
 支持设置自己头像、设置聊天主题色、语言、字体 \
 支持切换聊天频道、支持使用自定义claude工作区 \
-支持配置全局模板：Jailbreak Prompt、Main Prompt、NSFW Prompt 示例DEMO（可sese）：<a href="https://github.com/k1287988804/visionhubdocs/blob/main/18template.md" target="_black">DEMO</a> \
+支持配置全局模板：Jailbreak Prompt、Main Prompt、NSFW Prompt 示例DEMO（可sese）：<a href="https://github.com/k1287988804/visionhubdocs/blob/main/template.md" target="_black">DEMO</a> \
 支持配置stable diffusion远程地址，可使用秋叶整合包搭建Colab版本无缝衔接 （默认备选地址较慢，白嫖的接口） \
 支持配置vits语音地址，兼容vits-simple-api项目 （默认备选地址较慢，白嫖的接口）
 
