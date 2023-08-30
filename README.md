@@ -1,11 +1,13 @@
 # Vision Hub 使用手册
 
-主页地址： https://applevisionhub.net \
-PC移动端服务站点地址：https://visionhub.top （目前使用）\
+主页地址： https://visionhub.top \
 安卓App（部分功能存在异常，如无法换头像）： <a href="https://github.com/k1287988804/visionhubdocs/releases/download/v1.0.0/VisionHub_1.0.0_release.apk" target="_blank" >VisionHub</a> \
 VisionTool：https://github.com/k1287988804/VisionTool
 
-@author：K启源 B站/爱发电同名
+##### 重点：
+若办公使用，请在对话设置里面勾选纯净模式！！！！！
+若办公使用，请在对话设置里面勾选纯净模式！！！！！
+若办公使用，请在对话设置里面勾选纯净模式！！！！！
 
 #### 现有功能：
 
